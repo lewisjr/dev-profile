@@ -86,4 +86,4 @@
   - Generate a budget
   - Save the budget
   - Segment the budget into its constitutent stores, items, and respective prices
-  - iOS and Android compatible
+- iOS and Android compatible
