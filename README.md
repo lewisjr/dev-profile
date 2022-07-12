@@ -92,11 +92,18 @@
 
 ## Examples
 
+- [Python CLI Software](#python-cli-software)
 - [Inventory Manager](#inventory-manager)
 - [eCommerce App](#ecommerce-app)
 - [eMenu System](#ecommerce-app)
 - [Interior Design](#interior-design---kitchen)
 - [Back to Main Navigator](#development-profile)
+
+### Python CLI Software
+
+This is a command line application to be used in the terminal that deletes junk folders in python projects that are generated during testing. It is operating system agnostic, and has been tested for Microsoft Windows (all versions), Linux (debian), and MacOS.
+
+- [Official Package Page](https://pypi.org/project/frenchmaid/)
 
 ### Inventory Manager
 
