@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img src="./assets/logo.png" alt="logo" width="11%" style="display: block; margin: 0 auto" />
 
 # Development Profile
