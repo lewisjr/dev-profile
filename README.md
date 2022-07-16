@@ -52,25 +52,25 @@
 ├── APIs
 ├── Web Services
 |   ├── Responsive Web Apps
-|   ├── Mobile Friendly Web Apps
-├── Multi Language Integrations
-    ├── C++
+|   └── Mobile Friendly Web Apps
+└── Multi Language Integrations
+    └── C++
 ```
 
 **Javascript**
 
 ```bash
 ├── Vanilla js
-├── React
+└── React
     ├── React.js
     ├── React Native
     |   ├── iOS
-    |   ├── Android
-    ├── Next.js
+    |   └── Android
+    └── Next.js
 ├── APIs
-├── Web Services
+└── Web Services
     ├── Responsive Web Apps
-    ├── Mobile Friendly Web Apps
+    └── Mobile Friendly Web Apps
 ```
 
 **Third Party Integrations**
@@ -83,20 +83,27 @@
     ├── SupaBase
     ├── Firebase
     ├── AWS
-    ├── Cybersecurtiy
+    └── Cybersecurtiy
         ├── Data and Password Encryption
-        ├── Endpoint Authentication
+        └── Endpoint Authentication
             ├── Tokens
-            ├── IP Address
+            └── IP Address
 ```
 
 ## Examples
 
+- [Python CLI Software](#python-cli-software)
 - [Inventory Manager](#inventory-manager)
 - [eCommerce App](#ecommerce-app)
 - [eMenu System](#ecommerce-app)
 - [Interior Design](#interior-design---kitchen)
 - [Back to Main Navigator](#development-profile)
+
+### Python CLI Software
+
+This is a command line application to be used in the terminal that deletes junk folders in python projects that are generated during testing. It is operating system agnostic, and has been tested for Microsoft Windows (all versions), Linux (debian), and MacOS.
+
+- [Official Package Page](https://pypi.org/project/frenchmaid/)
 
 ### Inventory Manager
 
