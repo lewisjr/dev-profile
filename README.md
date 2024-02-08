@@ -14,7 +14,6 @@
 
 **Name:** Lewis Mosho Jr  
 **Title:** Software Engineer  
-**D.O.B:** 14<sup>th</sup> July 2000  
 **Location:** Lusaka, Zambia
 
 **Credentials**
@@ -43,7 +42,7 @@
 
 4. Law Student
 
-   - Bachelor of Laws (1<sup>st</sup> year @ University of Zambia)
+   - Bachelor of Laws (University of Zambia)
 
 **Pass Times**
 
@@ -77,12 +76,14 @@
 ```bash
 ├── Cross Platform Desktop Software and Apps
 ├── Typing (Typed Python)
-├── APIs
+├── RESTful APIs
+|   ├── Microservices
+|   └── Monoliths
 ├── Web Services
 |   ├── Responsive Web Apps
 |   └── Mobile Friendly Web Apps
 └── Multi Language Integrations
-    └── C++
+    └── Rust
 ```
 
 **Javascript**
@@ -96,7 +97,8 @@
 |   |   ├── iOS
 |   |   └── Android
 |   └── Next.js
-├── APIs
+├── RESTful APIs (node)
+|   └── Microservices
 └── Web Services
     ├── Responsive Web Apps
     └── Mobile Friendly Web Apps
@@ -105,18 +107,14 @@
 **Third Party Integrations**
 
 ```bash
-├── imgur
 ├── Docker
-├── Heroku
-├── Vercel
 ├── Git
-├── Digital Ocean
-├── MongoDB
-├── SupaBase
-├── Firebase
-├── AWS
+├── PostgreSQL
+├── SQLite
+├── NoSQL
 └── Cybersecurtiy
     ├── Data and Password Encryption
+    ├── Cryptography
     └── Endpoint Authentication
         ├── Tokens
         └── IP Address
